@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The blog of our movie club. 
+We watch movies. Mostly bad ones.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Current Movie Series
+Random Movie Night - statistically we'll watch an average movie
+Great Movies - Come see a good one
+Animated Movies - Not just for kids
+B-Movies - Someone actually made these
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nihilistMovieClub@gmail.com](nihilistMovieClub@gmail.com)
