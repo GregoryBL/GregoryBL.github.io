@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2001: A Space Odyssey
+title: 2001 A Space Odyssey
 ---
 
 ![alt text](http://1.bp.blogspot.com/-RpZ1rglEeIk/T7TyEH0sEeI/AAAAAAAAEcA/O5XF3t56MY8/s1600/2001+A+Space+Odyssey+%281968%29+Space+Station+One+by+Robert+McCall.jpg "2001 Official Poster")
