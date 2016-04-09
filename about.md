@@ -17,4 +17,4 @@ B-Movies - Someone actually made these
 
 ### Contact me
 
-[nihilistMovieClub@gmail.com](nihilistMovieClub@gmail.com)
+[nihilistMovieClub@gmail.com](mailto:nihilistMovieClub@gmail.com)
