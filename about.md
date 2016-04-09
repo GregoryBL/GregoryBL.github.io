@@ -9,11 +9,11 @@ We watch movies. Mostly bad ones.
 
 ### More Information
 
-Current Movie Series
-Random Movie Night - statistically we'll watch an average movie
-Great Movies - Come see a good one
-Animated Movies - Not just for kids
-B-Movies - Someone actually made these
+#### Current Series  
+Random Movie Night - statistically it will be average  
+Great Movies - Come see a good one  
+Animated Movies - Not just for kids  
+B-Movies - Someone actually made these  
 
 ### Contact me
 
