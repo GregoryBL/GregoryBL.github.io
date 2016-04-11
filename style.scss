@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: #C8C8C8;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -26,8 +26,12 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 0 30px;
   width: 100%;
+}
+
+.container.content {
+  padding: 5px 30px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -242,8 +246,10 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  margin-bottom: 30px;
+  padding: 2px 30px;
   border-bottom: 1px solid $lightGray;
+  background: $white;
 }
 
 .posts > .post:last-child {
